@@ -62,7 +62,7 @@ make quick-release
 
 For the full story, head over to the [developer's documentation].
 
-##### package dependencies fix 
+#### package dependencies fix 
 create download-deps.sh
 ```
 #!/bin/bash
